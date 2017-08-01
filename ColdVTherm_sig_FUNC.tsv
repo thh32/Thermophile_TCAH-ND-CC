@@ -1,0 +1,645 @@
+molecular_function	nucleoside binding	GO:0001882	32032	4604	18163	2902	1	2.55E-21	1	0	-1	0
+molecular_function	purine nucleoside binding	GO:0001883	32032	4574	18163	2885	1	1.98E-21	1	0	-1	0
+molecular_function	nucleic acid binding	GO:0003676	32032	4752	18163	2859	1	9.07E-08	1	0	-1	0
+molecular_function	RNA binding	GO:0003723	32032	2125	18163	1407	1	1.30E-20	1	0	-1	0
+molecular_function	structural constituent of ribosome	GO:0003735	32032	1278	18163	826	1	2.29E-09	1	0	-1	0
+molecular_function	catalytic activity	GO:0003824	32032	18830	18163	10898	1	0.000000224	1	0	-1	0
+molecular_function	structural molecule activity	GO:0005198	32032	1356	18163	871	1	4.79E-09	1	0	-1	0
+molecular_function	binding	GO:0005488	32032	13994	18163	8624	1	1.02E-55	1	0	-1	0
+molecular_function	ATP binding	GO:0005524	32032	4076	18163	2566	1	2.42E-18	1	0	-1	0
+molecular_function	RNA methyltransferase activity	GO:0008173	32032	213	18163	165	1	1.65E-10	1	0	-1	0
+molecular_function	purine nucleotide binding	GO:0017076	32032	4593	18163	2897	1	1.58E-21	1	0	-1	0
+molecular_function	rRNA binding	GO:0019843	32032	724	18163	489	1	0.000000001	1	0	-1	0
+molecular_function	adenyl nucleotide binding	GO:0030554	32032	4104	18163	2578	1	9.58E-18	1	0	-1	0
+molecular_function	ribonucleoside binding	GO:0032549	32032	4604	18163	2902	1	2.55E-21	1	0	-1	0
+molecular_function	purine ribonucleoside binding	GO:0032550	32032	4574	18163	2885	1	1.98E-21	1	0	-1	0
+molecular_function	ribonucleotide binding	GO:0032553	32032	4796	18163	3003	1	1.19E-19	1	0	-1	0
+molecular_function	purine ribonucleotide binding	GO:0032555	32032	4582	18163	2893	1	7.16E-22	1	0	-1	0
+molecular_function	adenyl ribonucleotide binding	GO:0032559	32032	4093	18163	2574	1	4.53E-18	1	0	-1	0
+molecular_function	purine ribonucleoside triphosphate binding	GO:0035639	32032	4557	18163	2877	1	1.03E-21	1	0	-1	0
+molecular_function	small molecule binding	GO:0036094	32032	6639	18163	4111	1	2.08E-22	1	0	-1	0
+molecular_function	ion binding	GO:0043167	32032	9229	18163	5763	1	2.76E-40	1	0	-1	0
+molecular_function	anion binding	GO:0043168	32032	5836	18163	3642	1	8.61E-23	1	0	-1	0
+molecular_function	cation binding	GO:0043169	32032	4626	18163	2930	1	2.23E-23	1	0	-1	0
+molecular_function	metal ion binding	GO:0046872	32032	4541	18163	2873	1	1.79E-22	1	0	-1	0
+molecular_function	iron-sulfur cluster binding	GO:0051536	32032	1374	18163	926	1	7.51E-17	1	0	-1	0
+molecular_function	4 iron, 4 sulfur cluster binding	GO:0051539	32032	623	18163	451	1	2.22E-16	1	0	-1	0
+molecular_function	metal cluster binding	GO:0051540	32032	1374	18163	926	1	7.51E-17	1	0	-1	0
+molecular_function	organic cyclic compound binding	GO:0097159	32032	10333	18163	6306	1	1.79E-27	1	0	-1	0
+molecular_function	carbohydrate derivative binding	GO:0097367	32032	4917	18163	3086	1	4.12E-21	1	0	-1	0
+molecular_function	nucleoside phosphate binding	GO:1901265	32032	5885	18163	3673	1	4.64E-23	1	0	-1	0
+molecular_function	heterocyclic compound binding	GO:1901363	32032	10333	18163	6306	1	1.79E-27	1	0	-1	0
+biological_process	rRNA modification	GO:0000154	32032	32	18163	31	1	0.000000328	1	0	-1	0
+biological_process	peptidoglycan metabolic process	GO:0000270	32032	77	18163	74	1	3.45E-15	1	0	-1	0
+biological_process	cell morphogenesis	GO:0000902	32032	86	18163	79	1	5.58E-13	1	0	-1	0
+biological_process	cilium or flagellum-dependent cell motility	GO:0001539	32032	75	18163	69	1	1.42E-11	1	0	-1	0
+biological_process	peptide secretion	GO:0002790	32032	70	18163	62	1	7.13E-09	1	0	-1	0
+biological_process	aminoglycan metabolic process	GO:0006022	32032	79	18163	76	1	1.19E-15	1	0	-1	0
+biological_process	aminoglycan biosynthetic process	GO:0006023	32032	58	18163	58	1	4.92E-15	1	0	-1	0
+biological_process	glycosaminoglycan biosynthetic process	GO:0006024	32032	58	18163	58	1	4.92E-15	1	0	-1	0
+biological_process	organic acid metabolic process	GO:0006082	32032	2921	18163	1830	1	4.39E-12	1	0	-1	0
+biological_process	nucleobase-containing compound metabolic process	GO:0006139	32032	5599	18163	3510	1	8.31E-24	1	0	-1	0
+biological_process	regulation of transcription, DNA-templated	GO:0006355	32032	596	18163	398	1	0.000000245	1	0	-1	0
+biological_process	rRNA processing	GO:0006364	32032	169	18163	135	1	1.71E-10	1	0	-1	0
+biological_process	RNA processing	GO:0006396	32032	791	18163	563	1	1.42E-17	1	0	-1	0
+biological_process	tRNA metabolic process	GO:0006399	32032	1040	18163	703	1	1.74E-13	1	0	-1	0
+biological_process	tRNA modification	GO:0006400	32032	283	18163	199	0.999999	0.00000153	1	0	-1	0
+biological_process	translation	GO:0006412	32032	1953	18163	1256	1	9.78E-13	1	0	-1	0
+biological_process	peptide metabolic process	GO:0006518	32032	1992	18163	1274	1	6.19E-12	1	0	-1	0
+biological_process	cellular amino acid metabolic process	GO:0006520	32032	2215	18163	1381	1	0.000000013	1	0	-1	0
+biological_process	glycine catabolic process	GO:0006546	32032	60	18163	52	1	0.00000059	1	0	-1	0
+biological_process	cellular biogenic amine metabolic process	GO:0006576	32032	144	18163	109	0.999999	0.00000157	1	0	-1	0
+biological_process	polyamine metabolic process	GO:0006595	32032	47	18163	43	1	0.000000177	1	0	-1	0
+biological_process	polyamine biosynthetic process	GO:0006596	32032	47	18163	43	1	0.000000177	1	0	-1	0
+biological_process	lipid metabolic process	GO:0006629	32032	487	18163	345	1	6.60E-11	1	0	-1	0
+biological_process	phospholipid metabolic process	GO:0006644	32032	268	18163	191	1	0.000000564	1	0	-1	0
+biological_process	cellular aromatic compound metabolic process	GO:0006725	32032	6762	18163	4195	1	7.74E-24	1	0	-1	0
+biological_process	coenzyme metabolic process	GO:0006732	32032	1074	18163	693	1	6.56E-08	1	0	-1	0
+biological_process	nucleoside phosphate metabolic process	GO:0006753	32032	1541	18163	980	1	0.00000001	1	0	-1	0
+biological_process	phosphorus metabolic process	GO:0006793	32032	2303	18163	1507	1	4.57E-19	1	0	-1	0
+biological_process	phosphate-containing compound metabolic process	GO:0006796	32032	2211	18163	1446	1	3.46E-18	1	0	-1	0
+biological_process	nitrogen compound metabolic process	GO:0006807	32032	10071	18163	6285	1	8.66E-45	1	0	-1	0
+biological_process	movement of cell or subcellular component	GO:0006928	32032	75	18163	69	1	1.42E-11	1	0	-1	0
+biological_process	tRNA processing	GO:0008033	32032	554	18163	387	1	9.35E-11	1	0	-1	0
+biological_process	protein localization	GO:0008104	32032	273	18163	199	1	2.01E-08	1	0	-1	0
+biological_process	metabolic process	GO:0008152	32032	13309	18163	8149	1	1.30E-43	1	0	-1	0
+biological_process	regulation of cell shape	GO:0008360	32032	73	18163	67	1	3.76E-11	1	0	-1	0
+biological_process	lipid biosynthetic process	GO:0008610	32032	389	18163	277	1	2.10E-09	1	0	-1	0
+biological_process	cellular amino acid biosynthetic process	GO:0008652	32032	1265	18163	802	1	0.000000454	1	0	-1	0
+biological_process	phospholipid biosynthetic process	GO:0008654	32032	242	18163	175	1	0.000000345	1	0	-1	0
+biological_process	biosynthetic process	GO:0009058	32032	8398	18163	5263	1	2.47E-38	1	0	-1	0
+biological_process	macromolecule biosynthetic process	GO:0009059	32032	3654	18163	2323	1	1.77E-19	1	0	-1	0
+biological_process	serine family amino acid catabolic process	GO:0009071	32032	60	18163	52	1	0.00000059	1	0	-1	0
+biological_process	nucleoside metabolic process	GO:0009116	32032	1040	18163	694	1	1.16E-11	1	0	-1	0
+biological_process	nucleotide metabolic process	GO:0009117	32032	1538	18163	980	1	5.71E-09	1	0	-1	0
+biological_process	ribonucleoside metabolic process	GO:0009119	32032	902	18163	601	1	4.05E-10	1	0	-1	0
+biological_process	nucleoside biosynthetic process	GO:0009163	32032	588	18163	404	1	1.12E-09	1	0	-1	0
+biological_process	nucleotide biosynthetic process	GO:0009165	32032	1126	18163	718	1	0.000000542	1	0	-1	0
+biological_process	peptidoglycan biosynthetic process	GO:0009252	32032	56	18163	56	1	1.53E-14	1	0	-1	0
+biological_process	ribonucleotide metabolic process	GO:0009259	32032	1063	18163	678	0.999999	0.00000106	1	0	-1	0
+biological_process	peptidoglycan-based cell wall biogenesis	GO:0009273	32032	59	18163	59	1	2.79E-15	1	0	-1	0
+biological_process	protein secretion	GO:0009306	32032	70	18163	62	1	7.13E-09	1	0	-1	0
+biological_process	amine metabolic process	GO:0009308	32032	151	18163	113	0.999999	0.0000027	1	0	-1	0
+biological_process	amine biosynthetic process	GO:0009309	32032	129	18163	102	1	7.64E-08	1	0	-1	0
+biological_process	RNA modification	GO:0009451	32032	406	18163	293	1	6.76E-11	1	0	-1	0
+biological_process	anatomical structure morphogenesis	GO:0009653	32032	91	18163	84	1	4.85E-14	1	0	-1	0
+biological_process	regulation of biosynthetic process	GO:0009889	32032	747	18163	499	1	7.24E-09	1	0	-1	0
+biological_process	cellular process	GO:0009987	32032	12532	18163	7749	1	2.15E-50	1	0	-1	0
+biological_process	gene expression	GO:0010467	32032	3875	18163	2534	1	4.15E-32	1	0	-1	0
+biological_process	regulation of gene expression	GO:0010468	32032	741	18163	495	1	8.27E-09	1	0	-1	0
+biological_process	regulation of macromolecule biosynthetic process	GO:0010556	32032	747	18163	499	1	7.24E-09	1	0	-1	0
+biological_process	protein transport	GO:0015031	32032	270	18163	196	1	4.34E-08	1	0	-1	0
+biological_process	peptide transport	GO:0015833	32032	373	18163	258	1	0.000000446	1	0	-1	0
+biological_process	cellular component organization	GO:0016043	32032	768	18163	500	0.999999	0.000000946	1	0	-1	0
+biological_process	organic acid biosynthetic process	GO:0016053	32032	1441	18163	930	1	3.43E-10	1	0	-1	0
+biological_process	RNA metabolic process	GO:0016070	32032	2495	18163	1648	1	2.09E-23	1	0	-1	0
+biological_process	rRNA metabolic process	GO:0016072	32032	171	18163	137	1	8.48E-11	1	0	-1	0
+biological_process	protein processing	GO:0016485	32032	85	18163	69	1	0.00000164	1	0	-1	0
+biological_process	intein-mediated protein splicing	GO:0016539	32032	52	18163	49	1	1.60E-09	1	0	-1	0
+biological_process	heterocycle biosynthetic process	GO:0018130	32032	3579	18163	2265	1	1.22E-17	1	0	-1	0
+biological_process	regulation of nucleobase-containing compound metabolic process	GO:0019219	32032	636	18163	428	1	2.17E-08	1	0	-1	0
+biological_process	regulation of metabolic process	GO:0019222	32032	804	18163	540	1	5.13E-10	1	0	-1	0
+biological_process	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	GO:0019288	32032	23	18163	23	1	0.00000214	1	0	-1	0
+biological_process	aromatic compound biosynthetic process	GO:0019438	32032	3422	18163	2151	1	5.92E-15	1	0	-1	0
+biological_process	glycine decarboxylation via glycine cleavage system	GO:0019464	32032	42	18163	38	1	0.00000193	1	0	-1	0
+biological_process	protein metabolic process	GO:0019538	32032	2623	18163	1693	1	8.66E-18	1	0	-1	0
+biological_process	organophosphate metabolic process	GO:0019637	32032	2118	18163	1385	1	2.03E-17	1	0	-1	0
+biological_process	ribose phosphate metabolic process	GO:0019693	32032	1129	18163	728	1	3.59E-08	1	0	-1	0
+biological_process	carboxylic acid metabolic process	GO:0019752	32032	2892	18163	1817	1	1.34E-12	1	0	-1	0
+biological_process	regulation of anatomical structure morphogenesis	GO:0022603	32032	73	18163	67	1	3.76E-11	1	0	-1	0
+biological_process	regulation of cell morphogenesis	GO:0022604	32032	73	18163	67	1	3.76E-11	1	0	-1	0
+biological_process	ribonucleoprotein complex biogenesis	GO:0022613	32032	305	18163	237	1	9.86E-15	1	0	-1	0
+biological_process	cell projection organization	GO:0030030	32032	52	18163	52	1	1.49E-13	1	0	-1	0
+biological_process	cell projection assembly	GO:0030031	32032	31	18163	31	1	2.27E-08	1	0	-1	0
+biological_process	glycosaminoglycan metabolic process	GO:0030203	32032	79	18163	76	1	1.19E-15	1	0	-1	0
+biological_process	protein splicing	GO:0030908	32032	52	18163	49	1	1.60E-09	1	0	-1	0
+biological_process	regulation of cellular metabolic process	GO:0031323	32032	773	18163	517	1	0.000000003	1	0	-1	0
+biological_process	regulation of cellular biosynthetic process	GO:0031326	32032	747	18163	499	1	7.24E-09	1	0	-1	0
+biological_process	developmental process	GO:0032502	32032	92	18163	85	1	2.97E-14	1	0	-1	0
+biological_process	secretion by cell	GO:0032940	32032	70	18163	62	1	7.13E-09	1	0	-1	0
+biological_process	cellular component morphogenesis	GO:0032989	32032	86	18163	79	1	5.58E-13	1	0	-1	0
+biological_process	macromolecule localization	GO:0033036	32032	279	18163	205	1	4.16E-09	1	0	-1	0
+biological_process	ncRNA processing	GO:0034470	32032	679	18163	493	1	3.49E-18	1	0	-1	0
+biological_process	cellular nitrogen compound metabolic process	GO:0034641	32032	8236	18163	5136	1	8.48E-34	1	0	-1	0
+biological_process	cellular macromolecule biosynthetic process	GO:0034645	32032	3591	18163	2285	1	1.99E-19	1	0	-1	0
+biological_process	nucleobase-containing compound biosynthetic process	GO:0034654	32032	2332	18163	1501	1	3.13E-15	1	0	-1	0
+biological_process	ncRNA metabolic process	GO:0034660	32032	1166	18163	810	1	5.19E-20	1	0	-1	0
+biological_process	ribosome biogenesis	GO:0042254	32032	305	18163	237	1	9.86E-15	1	0	-1	0
+biological_process	cellular biogenic amine biosynthetic process	GO:0042401	32032	129	18163	102	1	7.64E-08	1	0	-1	0
+biological_process	ribonucleoside biosynthetic process	GO:0042455	32032	588	18163	404	1	1.12E-09	1	0	-1	0
+biological_process	cell wall biogenesis	GO:0042546	32032	65	18163	60	1	2.23E-10	1	0	-1	0
+biological_process	amide transport	GO:0042886	32032	373	18163	258	1	0.000000446	1	0	-1	0
+biological_process	peptide biosynthetic process	GO:0043043	32032	1956	18163	1256	1	1.82E-12	1	0	-1	0
+biological_process	macromolecule metabolic process	GO:0043170	32032	6042	18163	3804	1	3.62E-28	1	0	-1	0
+biological_process	oxoacid metabolic process	GO:0043436	32032	2915	18163	1827	1	3.75E-12	1	0	-1	0
+biological_process	cellular amide metabolic process	GO:0043603	32032	2198	18163	1389	1	8.59E-11	1	0	-1	0
+biological_process	amide biosynthetic process	GO:0043604	32032	2117	18163	1349	1	6.32E-12	1	0	-1	0
+biological_process	cell wall macromolecule metabolic process	GO:0044036	32032	70	18163	65	1	1.89E-11	1	0	-1	0
+biological_process	cell wall macromolecule biosynthetic process	GO:0044038	32032	63	18163	58	1	5.95E-10	1	0	-1	0
+biological_process	cellular component biogenesis	GO:0044085	32032	651	18163	447	1	1.70E-10	1	0	-1	0
+biological_process	cellular amine metabolic process	GO:0044106	32032	144	18163	109	0.999999	0.00000157	1	0	-1	0
+biological_process	cellular metabolic process	GO:0044237	32032	11468	18163	7122	1	1.42E-48	1	0	-1	0
+biological_process	primary metabolic process	GO:0044238	32032	10297	18163	6445	1	4.15E-49	1	0	-1	0
+biological_process	cellular biosynthetic process	GO:0044249	32032	7906	18163	4984	1	7.64E-40	1	0	-1	0
+biological_process	cellular lipid metabolic process	GO:0044255	32032	451	18163	318	1	8.44E-10	1	0	-1	0
+biological_process	cellular macromolecule metabolic process	GO:0044260	32032	5859	18163	3689	1	3.16E-27	1	0	-1	0
+biological_process	cellular protein metabolic process	GO:0044267	32032	2506	18163	1605	1	4.01E-15	1	0	-1	0
+biological_process	cellular nitrogen compound biosynthetic process	GO:0044271	32032	5258	18163	3339	1	3.72E-28	1	0	-1	0
+biological_process	small molecule metabolic process	GO:0044281	32032	5121	18163	3207	1	3.77E-21	1	0	-1	0
+biological_process	small molecule biosynthetic process	GO:0044283	32032	2094	18163	1330	1	3.26E-11	1	0	-1	0
+biological_process	single-organism process	GO:0044699	32032	7365	18163	4564	1	9.69E-26	1	0	-1	0
+biological_process	single-organism metabolic process	GO:0044710	32032	6201	18163	3833	1	6.07E-20	1	0	-1	0
+biological_process	single-organism biosynthetic process	GO:0044711	32032	4046	18163	2561	1	4.58E-20	1	0	-1	0
+biological_process	single-organism cellular process	GO:0044763	32032	6646	18163	4144	1	5.42E-26	1	0	-1	0
+biological_process	single-organism developmental process	GO:0044767	32032	92	18163	85	1	2.97E-14	1	0	-1	0
+biological_process	bacterial-type flagellum assembly	GO:0044780	32032	30	18163	30	1	4.01E-08	1	0	-1	0
+biological_process	bacterial-type flagellum organization	GO:0044781	32032	51	18163	51	1	2.63E-13	1	0	-1	0
+biological_process	establishment of protein localization	GO:0045184	32032	270	18163	196	1	4.34E-08	1	0	-1	0
+biological_process	external encapsulating structure organization	GO:0045229	32032	67	18163	66	1	1.54E-15	1	0	-1	0
+biological_process	ribose phosphate biosynthetic process	GO:0046390	32032	793	18163	515	0.999999	0.00000102	1	0	-1	0
+biological_process	carboxylic acid biosynthetic process	GO:0046394	32032	1440	18163	929	1	3.94E-10	1	0	-1	0
+biological_process	heterocycle metabolic process	GO:0046483	32032	6826	18163	4249	1	6.88E-26	1	0	-1	0
+biological_process	secretion	GO:0046903	32032	70	18163	62	1	7.13E-09	1	0	-1	0
+biological_process	anatomical structure development	GO:0048856	32032	91	18163	84	1	4.85E-14	1	0	-1	0
+biological_process	cellular developmental process	GO:0048869	32032	91	18163	84	1	4.85E-14	1	0	-1	0
+biological_process	cell motility	GO:0048870	32032	75	18163	69	1	1.42E-11	1	0	-1	0
+biological_process	regulation of developmental process	GO:0050793	32032	74	18163	68	1	2.31E-11	1	0	-1	0
+biological_process	regulation of cellular component organization	GO:0051128	32032	109	18163	95	1	5.86E-12	1	0	-1	0
+biological_process	regulation of nitrogen compound metabolic process	GO:0051171	32032	755	18163	507	1	1.79E-09	1	0	-1	0
+biological_process	localization	GO:0051179	32032	2067	18163	1280	1	0.000000358	1	0	-1	0
+biological_process	regulation of RNA metabolic process	GO:0051252	32032	598	18163	400	1	0.000000173	1	0	-1	0
+biological_process	localization of cell	GO:0051674	32032	75	18163	69	1	1.42E-11	1	0	-1	0
+biological_process	nucleobase-containing small molecule metabolic process	GO:0055086	32032	1774	18163	1148	1	9.39E-13	1	0	-1	0
+biological_process	regulation of macromolecule metabolic process	GO:0060255	32032	784	18163	528	1	4.29E-10	1	0	-1	0
+biological_process	cellular component macromolecule biosynthetic process	GO:0070589	32032	63	18163	58	1	5.95E-10	1	0	-1	0
+biological_process	organelle assembly	GO:0070925	32032	93	18163	77	1	8.08E-08	1	0	-1	0
+biological_process	cell wall organization or biogenesis	GO:0071554	32032	80	18163	75	1	1.25E-13	1	0	-1	0
+biological_process	cell wall organization	GO:0071555	32032	65	18163	65	1	9.18E-17	1	0	-1	0
+biological_process	organic substance metabolic process	GO:0071704	32032	11727	18163	7275	1	4.94E-49	1	0	-1	0
+biological_process	cellular component organization or biogenesis	GO:0071840	32032	1017	18163	692	1	3.37E-14	1	0	-1	0
+biological_process	bacterial-type flagellum-dependent cell motility	GO:0071973	32032	65	18163	65	1	9.18E-17	1	0	-1	0
+biological_process	pyrimidine-containing compound metabolic process	GO:0072527	32032	547	18163	367	1	0.000000342	1	0	-1	0
+biological_process	pyrimidine-containing compound biosynthetic process	GO:0072528	32032	508	18163	342	1	0.00000051	1	0	-1	0
+biological_process	regulation of primary metabolic process	GO:0080090	32032	757	18163	509	1	1.25E-09	1	0	-1	0
+biological_process	nucleic acid metabolic process	GO:0090304	32032	3764	18163	2330	1	3.23E-12	1	0	-1	0
+biological_process	organophosphate biosynthetic process	GO:0090407	32032	1688	18163	1119	1	8.86E-17	1	0	-1	0
+biological_process	archaeal or bacterial-type flagellum-dependent cell motility	GO:0097588	32032	75	18163	69	1	1.42E-11	1	0	-1	0
+biological_process	carbohydrate derivative metabolic process	GO:1901135	32032	1741	18163	1204	1	3.95E-28	1	0	-1	0
+biological_process	carbohydrate derivative biosynthetic process	GO:1901137	32032	1118	18163	781	1	2.45E-20	1	0	-1	0
+biological_process	nucleoside phosphate biosynthetic process	GO:1901293	32032	1126	18163	718	1	0.000000542	1	0	-1	0
+biological_process	organic cyclic compound metabolic process	GO:1901360	32032	7029	18163	4367	1	9.74E-26	1	0	-1	0
+biological_process	organic cyclic compound biosynthetic process	GO:1901362	32032	3765	18163	2380	1	3.32E-18	1	0	-1	0
+biological_process	organonitrogen compound metabolic process	GO:1901564	32032	6696	18163	4248	1	1.51E-36	1	0	-1	0
+biological_process	organonitrogen compound biosynthetic process	GO:1901566	32032	5399	18163	3474	1	3.48E-36	1	0	-1	0
+biological_process	organic substance biosynthetic process	GO:1901576	32032	7923	18163	5012	1	1.26E-42	1	0	-1	0
+biological_process	alpha-amino acid metabolic process	GO:1901605	32032	1458	18163	927	1	0.000000027	1	0	-1	0
+biological_process	alpha-amino acid biosynthetic process	GO:1901607	32032	1099	18163	701	0.999999	0.00000069	1	0	-1	0
+biological_process	glycosyl compound metabolic process	GO:1901657	32032	1064	18163	716	1	4.27E-13	1	0	-1	0
+biological_process	glycosyl compound biosynthetic process	GO:1901659	32032	611	18163	425	1	2.96E-11	1	0	-1	0
+biological_process	single-organism organelle organization	GO:1902589	32032	66	18163	62	1	1.40E-11	1	0	-1	0
+biological_process	regulation of nucleic acid-templated transcription	GO:1903506	32032	598	18163	400	1	0.000000173	1	0	-1	0
+biological_process	liposaccharide metabolic process	GO:1903509	32032	36	18163	35	1	3.79E-08	1	0	-1	0
+biological_process	regulation of cellular macromolecule biosynthetic process	GO:2000112	32032	745	18163	497	1	1.02E-08	1	0	-1	0
+biological_process	regulation of RNA biosynthetic process	GO:2001141	32032	598	18163	400	1	0.000000173	1	0	-1	0
+cellular_component	intracellular	GO:0005622	32032	5689	18163	3720	1	3.67E-49	1	0	-1	0
+cellular_component	cell	GO:0005623	32032	7670	18163	5134	1	1.57E-97	1	0	-1	0
+cellular_component	cytoplasm	GO:0005737	32032	4852	18163	3319	1	2.26E-73	1	0	-1	0
+cellular_component	cytosol	GO:0005829	32032	284	18163	266	1	5.80E-45	1	0	-1	0
+cellular_component	ribosome	GO:0005840	32032	1358	18163	867	1	2.65E-08	1	0	-1	0
+cellular_component	plasma membrane	GO:0005886	32032	1663	18163	1227	1	8.97E-50	1	0	-1	0
+cellular_component	cell outer membrane	GO:0009279	32032	21	18163	21	1	0.00000666	1	0	-1	0
+cellular_component	bacterial-type flagellum	GO:0009288	32032	77	18163	77	1	9.93E-20	1	0	-1	0
+cellular_component	bacterial-type flagellum hook	GO:0009424	32032	19	18163	19	1	0.0000207	1	0	-1	0
+cellular_component	bacterial-type flagellum basal body	GO:0009425	32032	58	18163	58	1	4.92E-15	1	0	-1	0
+cellular_component	outer membrane	GO:0019867	32032	30	18163	30	1	4.01E-08	1	0	-1	0
+cellular_component	cytosolic large ribosomal subunit	GO:0022625	32032	46	18163	46	1	4.52E-12	1	0	-1	0
+cellular_component	cytosolic ribosome	GO:0022626	32032	79	18163	79	1	3.18E-20	1	0	-1	0
+cellular_component	cytosolic small ribosomal subunit	GO:0022627	32032	31	18163	31	1	2.27E-08	1	0	-1	0
+cellular_component	outer membrane-bounded periplasmic space	GO:0030288	32032	28	18163	28	1	0.000000125	1	0	-1	0
+cellular_component	external encapsulating structure	GO:0030312	32032	32	18163	30	1	0.00000407	1	0	-1	0
+cellular_component	cell envelope	GO:0030313	32032	49	18163	49	1	8.21E-13	1	0	-1	0
+cellular_component	intracellular ribonucleoprotein complex	GO:0030529	32032	1488	18163	941	1	8.94E-08	1	0	-1	0
+cellular_component	bacterial-type flagellum basal body, rod	GO:0030694	32032	22	18163	22	1	0.00000377	1	0	-1	0
+cellular_component	envelope	GO:0031975	32032	50	18163	50	1	4.65E-13	1	0	-1	0
+cellular_component	macromolecular complex	GO:0032991	32032	2424	18163	1543	1	2.66E-13	1	0	-1	0
+cellular_component	periplasmic space	GO:0042597	32032	49	18163	42	0.999997	0.0000136	1	0	-1	0
+cellular_component	cell projection	GO:0042995	32032	107	18163	97	1	1.08E-14	1	0	-1	0
+cellular_component	organelle	GO:0043226	32032	1697	18163	1090	1	5.25E-11	1	0	-1	0
+cellular_component	non-membrane-bounded organelle	GO:0043228	32032	1665	18163	1074	1	1.68E-11	1	0	-1	0
+cellular_component	intracellular organelle	GO:0043229	32032	1578	18163	988	1	0.000000584	1	0	-1	0
+cellular_component	intracellular non-membrane-bounded organelle	GO:0043232	32032	1559	18163	978	1	0.00000041	1	0	-1	0
+cellular_component	ribosomal subunit	GO:0044391	32032	393	18163	269	0.999999	0.00000103	1	0	-1	0
+cellular_component	organelle part	GO:0044422	32032	577	18163	404	1	2.21E-11	1	0	-1	0
+cellular_component	intracellular part	GO:0044424	32032	5188	18163	3519	1	1.02E-71	1	0	-1	0
+cellular_component	cytoplasmic part	GO:0044444	32032	1683	18163	1141	1	7.06E-22	1	0	-1	0
+cellular_component	cytosolic part	GO:0044445	32032	118	18163	105	1	1.90E-14	1	0	-1	0
+cellular_component	intracellular organelle part	GO:0044446	32032	485	18163	322	0.999995	0.00000705	1	0	-1	0
+cellular_component	bacterial-type flagellum part	GO:0044461	32032	76	18163	76	1	1.76E-19	1	0	-1	0
+cellular_component	external encapsulating structure part	GO:0044462	32032	21	18163	21	1	0.00000666	1	0	-1	0
+cellular_component	cell projection part	GO:0044463	32032	77	18163	77	1	9.93E-20	1	0	-1	0
+cellular_component	cell part	GO:0044464	32032	7432	18163	5022	1	1.30E-105	1	0	-1	0
+cellular_component	transferase complex, transferring phosphorus-containing groups	GO:0061695	32032	30	18163	28	0.999999	0.0000112	1	0	-1	0
+cellular_component	cell periphery	GO:0071944	32032	1693	18163	1255	1	9.29E-53	1	0	-1	0
+cellular_component	oxidoreductase complex	GO:1990204	32032	76	18163	64	1	0.000000291	1	0	-1	0
+cellular_component	ribonucleoprotein complex	GO:1990904	32032	1488	18163	941	1	8.94E-08	1	0	-1	0
+biological_process	fatty acid biosynthetic process	GO:0006633	32032	45	18163	40	1	0.00000302	1	0.001	-1	0.00000565
+biological_process	ribonucleotide biosynthetic process	GO:0009260	32032	773	18163	500	0.999998	0.00000286	1	0.001	-1	0.00000568
+biological_process	RNA biosynthetic process	GO:0032774	32032	1090	18163	691	0.999998	0.00000285	1	0.001	-1	0.00000571
+biological_process	organelle organization	GO:0006996	32032	321	18163	222	0.999998	0.00000278	1	0.001	-1	0.00000575
+biological_process	locomotion	GO:0040011	32032	119	18163	91	0.999998	0.00000534	1	0.001	-1	0.000011
+biological_process	sulfur compound biosynthetic process	GO:0044272	32032	395	18163	267	0.999997	0.00000533	1	0.001	-1	0.0000111
+biological_process	rRNA methylation	GO:0031167	32032	27	18163	26	1	0.00000478	1	0.001	-1	0.0000111
+biological_process	cell cycle	GO:0007049	32032	161	18163	119	0.999998	0.00000429	1	0.001	-1	0.0000112
+biological_process	terpenoid metabolic process	GO:0006721	32032	31	18163	29	0.999999	0.00000675	1	0.001	-1	0.000016
+biological_process	purine nucleoside metabolic process	GO:0042278	32032	671	18163	436	0.999996	0.00000613	1	0.001	-1	0.000016
+biological_process	purine ribonucleoside metabolic process	GO:0046128	32032	671	18163	436	0.999996	0.00000613	1	0.001	-1	0.000016
+biological_process	glyceraldehyde-3-phosphate metabolic process	GO:0019682	32032	91	18163	72	0.999998	0.00000594	1	0.001	-1	0.0000162
+biological_process	multi-organism process	GO:0051704	32032	91	18163	72	0.999998	0.00000594	1	0.001	-1	0.0000162
+cellular_component	proton-transporting ATP synthase complex	GO:0045259	32032	44	18163	37	0.999975	0.00010755	1	0.001	-1	0.0000227
+cellular_component	transferase complex	GO:1990234	32032	104	18163	78	0.999967	0.0000805	1	0.001	-1	0.0000233
+molecular_function	tRNA methyltransferase activity	GO:0008175	32032	120	18163	93	0.999999	0.0000015	1	0.001	-1	0.0000294
+biological_process	glycine metabolic process	GO:0006544	32032	92	18163	72	0.999996	0.0000122	1	0.003	-1	0.0000358
+biological_process	cofactor metabolic process	GO:0051186	32032	1411	18163	877	0.999991	0.0000121	1	0.003	-1	0.000036
+biological_process	terpenoid biosynthetic process	GO:0016114	32032	30	18163	28	0.999999	0.0000112	1	0.003	-1	0.0000362
+biological_process	coenzyme biosynthetic process	GO:0009108	32032	759	18163	488	0.999993	0.00000975	1	0.003	-1	0.0000364
+biological_process	molybdopterin cofactor metabolic process	GO:0043545	32032	141	18163	105	0.999996	0.00000878	1	0.003	-1	0.0000366
+biological_process	prosthetic group metabolic process	GO:0051189	32032	141	18163	105	0.999996	0.00000878	1	0.003	-1	0.0000366
+biological_process	queuosine biosynthetic process	GO:0008616	32032	26	18163	25	1	0.00000813	1	0.003	-1	0.000037
+biological_process	queuosine metabolic process	GO:0046116	32032	26	18163	25	1	0.00000813	1	0.003	-1	0.000037
+biological_process	response to biotic stimulus	GO:0009607	32032	79	18163	63	0.999996	0.0000141	1	0.004	-1	0.0000406
+biological_process	pyrimidine nucleotide biosynthetic process	GO:0006221	32032	337	18163	229	0.999992	0.0000138	1	0.004	-1	0.0000408
+cellular_component	glycine cleavage complex	GO:0005960	32032	25	18163	23	0.999986	0.000134298	1	0.002	-1	0.0000417
+cellular_component	large ribosomal subunit	GO:0015934	32032	181	18163	127	0.999931	0.000129519	1	0.002	-1	0.0000426
+cellular_component	DNA polymerase III complex	GO:0009360	32032	16	18163	16	1	0.000113871	1	0.002	-1	0.0000435
+cellular_component	DNA polymerase complex	GO:0042575	32032	16	18163	16	1	0.000113871	1	0.002	-1	0.0000435
+biological_process	nucleic acid-templated transcription	GO:0097659	32032	1057	18163	665	0.999987	0.0000174	1	0.005	-1	0.0000452
+biological_process	biological regulation	GO:0065007	32032	1281	18163	799	0.999989	0.0000149	1	0.005	-1	0.0000454
+biological_process	nucleoside monophosphate biosynthetic process	GO:0009124	32032	698	18163	449	0.999986	0.0000202	1	0.007	-1	0.000055
+biological_process	pyrimidine nucleotide metabolic process	GO:0006220	32032	358	18163	241	0.999986	0.0000231	1	0.009	-1	0.0000638
+biological_process	transcription, DNA-templated	GO:0006351	32032	1055	18163	663	0.999983	0.0000218	1	0.009	-1	0.0000641
+biological_process	purine nucleoside biosynthetic process	GO:0042451	32032	361	18163	243	0.999987	0.0000216	1	0.009	-1	0.0000644
+biological_process	purine ribonucleoside biosynthetic process	GO:0046129	32032	361	18163	243	0.999987	0.0000216	1	0.009	-1	0.0000644
+biological_process	organic substance transport	GO:0071702	32032	518	18163	339	0.999982	0.0000264	1	0.012	-1	0.0000756
+biological_process	purine-containing compound metabolic process	GO:0072521	32032	945	18163	597	0.999982	0.0000235	1	0.012	-1	0.000076
+biological_process	glycolipid metabolic process	GO:0006664	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	lipid A biosynthetic process	GO:0009245	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	glycolipid biosynthetic process	GO:0009247	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	lipid A metabolic process	GO:0046493	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	lipooligosaccharide metabolic process	GO:1901269	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	lipooligosaccharide biosynthetic process	GO:1901271	32032	24	18163	23	0.999999	0.0000235	1	0.012	-1	0.0000763
+biological_process	response to external biotic stimulus	GO:0043207	32032	77	18163	61	0.999991	0.0000283	1	0.014	-1	0.0000839
+biological_process	response to other organism	GO:0051707	32032	77	18163	61	0.999991	0.0000283	1	0.014	-1	0.0000839
+biological_process	defense response to other organism	GO:0098542	32032	77	18163	61	0.999991	0.0000283	1	0.014	-1	0.0000839
+molecular_function	peptide transporter activity	GO:0015197	32032	116	18163	89	0.999998	0.00000531	1	0.003	-1	0.0000857
+biological_process	Mo-molybdopterin cofactor biosynthetic process	GO:0006777	32032	122	18163	91	0.999987	0.0000306	1	0.017	-1	0.000097
+biological_process	Mo-molybdopterin cofactor metabolic process	GO:0019720	32032	122	18163	91	0.999987	0.0000306	1	0.017	-1	0.000097
+biological_process	cellular aldehyde metabolic process	GO:0006081	32032	139	18163	102	0.999985	0.0000337	1	0.019	-1	0.000105812
+molecular_function	ligase activity	GO:0016874	32032	1596	18163	989	0.999995	0.00000677	1	0.004	-1	0.000108145
+molecular_function	oxidoreductase activity, acting on hydrogen as donor	GO:0016695	32032	75	18163	61	0.999998	0.00000583	1	0.004	-1	0.000111145
+biological_process	ribosomal large subunit biogenesis	GO:0042273	32032	18	18163	18	1	0.0000366	1	0.02	-1	0.000119013
+biological_process	fatty acid metabolic process	GO:0006631	32032	76	18163	60	0.999987	0.0000399	1	0.02	-1	0.000126948
+biological_process	ribosomal small subunit biogenesis	GO:0042274	32032	23	18163	22	0.999998	0.0000398	1	0.02	-1	0.000127526
+biological_process	protein maturation	GO:0051604	32032	97	18163	74	0.999982	0.0000457	1	0.023	-1	0.000148934
+biological_process	single-organism carbohydrate metabolic process	GO:0044723	32032	509	18163	332	0.999968	0.0000473	1	0.024	-1	0.000152773
+biological_process	nitrogen compound transport	GO:0071705	32032	465	18163	305	0.999966	0.0000505	1	0.025	-1	0.00015658
+biological_process	regulation of biological process	GO:0050789	32032	1233	18163	765	0.999954	0.0000588	1	0.026	-1	0.00016471
+biological_process	sulfur compound metabolic process	GO:0006790	32032	558	18163	361	0.999956	0.000063	1	0.026	-1	0.000172801
+biological_process	intron homing	GO:0006314	32032	17	18163	17	1	0.0000645	1	0.028	-1	0.000180896
+molecular_function	guanyl nucleotide binding	GO:0019001	32032	497	18163	327	0.999987	0.000019	1	0.006	-1	0.000202745
+molecular_function	guanyl ribonucleotide binding	GO:0032561	32032	497	18163	327	0.999987	0.000019	1	0.006	-1	0.000202745
+biological_process	transport	GO:0006810	32032	1991	18163	1210	0.999934	0.0000796	1	0.034	-1	0.000240324
+biological_process	establishment of localization	GO:0051234	32032	1991	18163	1210	0.999934	0.0000796	1	0.034	-1	0.000240324
+biological_process	macromolecule modification	GO:0043412	32032	837	18163	528	0.999937	0.0000836	1	0.037	-1	0.000249144
+biological_process	spermidine metabolic process	GO:0008216	32032	26	18163	24	0.999992	0.0000821	1	0.037	-1	0.000250215
+biological_process	spermidine biosynthetic process	GO:0008295	32032	26	18163	24	0.999992	0.0000821	1	0.037	-1	0.000250215
+biological_process	negative regulation of nitrogen compound metabolic process	GO:0051172	32032	26	18163	24	0.999992	0.0000821	1	0.037	-1	0.000250215
+molecular_function	tRNA binding	GO:0000049	32032	331	18163	224	0.999984	0.0000259	1	0.007	-1	0.000256732
+molecular_function	rRNA methyltransferase activity	GO:0008649	32032	71	18163	57	0.999992	0.000025	1	0.007	-1	0.000262858
+molecular_function	transferase activity, transferring glycosyl groups	GO:0016757	32032	567	18163	369	0.999983	0.0000249	1	0.007	-1	0.000269295
+biological_process	nucleoside monophosphate metabolic process	GO:0009123	32032	937	18163	587	0.999923	0.000101303	1	0.041	-1	0.000286339
+biological_process	single-organism localization	GO:1902578	32032	473	18163	308	0.999929	0.000104442	1	0.042	-1	0.000289405
+molecular_function	hydrolase activity, acting on acid anhydrides	GO:0016817	32032	1962	18163	1197	0.99997	0.0000366	1	0.008	-1	0.000296513
+biological_process	ribonucleoside monophosphate biosynthetic process	GO:0009156	32032	655	18163	418	0.999922	0.000107592	1	0.044	-1	0.000299657
+biological_process	RNA methylation	GO:0001510	32032	70	18163	55	0.999964	0.000106	1	0.044	-1	0.000300923
+biological_process	negative regulation of macromolecule metabolic process	GO:0010605	32032	54	18163	44	0.99997	0.000109384	1	0.044	-1	0.00030259
+biological_process	lipopolysaccharide metabolic process	GO:0008653	32032	16	18163	16	1	0.000113871	1	0.044	-1	0.000308385
+biological_process	lipopolysaccharide biosynthetic process	GO:0009103	32032	16	18163	16	1	0.000113871	1	0.044	-1	0.000308385
+molecular_function	pyrophosphatase activity	GO:0016462	32032	1932	18163	1179	0.999968	0.0000395	1	0.008	-1	0.000309852
+biological_process	nucleoside triphosphate metabolic process	GO:0009141	32032	535	18163	345	0.999908	0.000130863	1	0.048	-1	0.000332105
+molecular_function	ribonuclease activity	GO:0004540	32032	253	18163	174	0.999971	0.0000512	1	0.01	-1	0.000340416
+molecular_function	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	GO:0016818	32032	1957	18163	1193	0.999963	0.0000452	1	0.01	-1	0.000347736
+biological_process	purine-containing compound biosynthetic process	GO:0072522	32032	618	18163	395	0.999902	0.0001358	1	0.053	-1	0.000355635
+biological_process	proteolysis	GO:0006508	32032	164	18163	116	0.999924	0.000146366	1	0.053	-1	0.00036641
+biological_process	regulation of cellular process	GO:0050794	32032	1200	18163	741	0.999866	0.000168919	1	0.056	-1	0.000405517
+biological_process	pyrimidine nucleoside monophosphate metabolic process	GO:0009129	32032	201	18163	139	0.999895	0.000187558	1	0.057	-1	0.000422394
+biological_process	pyrimidine nucleoside monophosphate biosynthetic process	GO:0009130	32032	201	18163	139	0.999895	0.000187558	1	0.057	-1	0.000422394
+biological_process	ribonucleoside monophosphate metabolic process	GO:0009161	32032	889	18163	556	0.999852	0.00019263	1	0.061	-1	0.000449005
+molecular_function	GTP binding	GO:0005525	32032	489	18163	319	0.999956	0.0000647	1	0.016	-1	0.000481087
+biological_process	amino acid activation	GO:0043038	32032	481	18163	311	0.999856	0.000206803	1	0.066	-1	0.000493466
+biological_process	tRNA aminoacylation	GO:0043039	32032	481	18163	311	0.999856	0.000206803	1	0.066	-1	0.000493466
+biological_process	ammonium ion metabolic process	GO:0097164	32032	28	18163	25	0.99997	0.000213528	1	0.067	-1	0.000507325
+biological_process	single-organism transport	GO:0044765	32032	468	18163	303	0.99985	0.000215749	1	0.067	-1	0.000509197
+biological_process	purine ribonucleotide metabolic process	GO:0009150	32032	823	18163	516	0.999824	0.000231214	1	0.069	-1	0.000515223
+biological_process	pyrimidine nucleoside metabolic process	GO:0006213	32032	237	18163	161	0.999852	0.000248404	1	0.07	-1	0.000528974
+molecular_function	nucleoside-triphosphatase activity	GO:0017111	32032	1815	18163	1107	0.999938	0.0000761	1	0.018	-1	0.000533258
+biological_process	tRNA aminoacylation for protein translation	GO:0006418	32032	469	18163	303	0.999813	0.000268196	1	0.074	-1	0.000573797
+biological_process	immune effector process	GO:0002252	32032	70	18163	54	0.999894	0.000291009	1	0.08	-1	0.000621417
+biological_process	response to virus	GO:0009615	32032	70	18163	54	0.999894	0.000291009	1	0.08	-1	0.000621417
+biological_process	defense response to virus	GO:0051607	32032	70	18163	54	0.999894	0.000291009	1	0.08	-1	0.000621417
+biological_process	protein transport by the Sec complex	GO:0043952	32032	14	18163	14	1	0.000354411	1	0.097	-1	0.000796262
+biological_process	isopentenyl diphosphate biosynthetic process	GO:0009240	32032	41	18163	34	0.999912	0.000355241	1	0.098	-1	0.000797871
+biological_process	isopentenyl diphosphate metabolic process	GO:0046490	32032	41	18163	34	0.999912	0.000355241	1	0.098	-1	0.000797871
+biological_process	purine nucleotide metabolic process	GO:0006163	32032	846	18163	528	0.999721	0.000362443	1	0.099	-1	0.000798722
+biological_process	pyrimidine ribonucleoside metabolic process	GO:0046131	32032	226	18163	153	0.999732	0.000444877	1	0.114	-1	0.000913275
+molecular_function	RNA-dependent ATPase activity	GO:0008186	32032	16	18163	16	1	0.000113871	1	0.037	-1	0.000970294
+molecular_function	amide binding	GO:0033218	32032	16	18163	16	1	0.000113871	1	0.037	-1	0.000970294
+biological_process	monocarboxylic acid metabolic process	GO:0032787	32032	537	18163	342	0.999615	0.000530735	1	0.132	-1	0.00106517
+cellular_component	bacterial-type flagellum basal body, distal rod	GO:0009426	32032	12	18163	12	1	0.00110296	1	0.039	-1	0.00122793
+molecular_function	aminoacyl-tRNA ligase activity	GO:0004812	32032	510	18163	329	0.999876	0.000177335	1	0.047	-1	0.00124029
+molecular_function	ligase activity, forming carbon-oxygen bonds	GO:0016875	32032	510	18163	329	0.999876	0.000177335	1	0.047	-1	0.00124029
+molecular_function	ligase activity, forming aminoacyl-tRNA and related compounds	GO:0016876	32032	510	18163	329	0.999876	0.000177335	1	0.047	-1	0.00124029
+molecular_function	ferredoxin hydrogenase activity	GO:0008901	32032	53	18163	43	0.999955	0.000158602	1	0.045	-1	0.00125356
+molecular_function	oxidoreductase activity, acting on hydrogen as donor, iron-sulfur protein as acceptor	GO:0016699	32032	53	18163	43	0.999955	0.000158602	1	0.045	-1	0.00125356
+biological_process	negative regulation of biosynthetic process	GO:0009890	32032	22	18163	20	0.999933	0.000576779	1	0.155	-1	0.00128508
+biological_process	negative regulation of macromolecule biosynthetic process	GO:0010558	32032	22	18163	20	0.999933	0.000576779	1	0.155	-1	0.00128508
+biological_process	negative regulation of cellular biosynthetic process	GO:0031327	32032	22	18163	20	0.999933	0.000576779	1	0.155	-1	0.00128508
+biological_process	negative regulation of cellular macromolecule biosynthetic process	GO:2000113	32032	22	18163	20	0.999933	0.000576779	1	0.155	-1	0.00128508
+biological_process	wybutosine metabolic process	GO:0031590	32032	13	18163	13	1	0.000625227	1	0.165	-1	0.00140772
+biological_process	wybutosine biosynthetic process	GO:0031591	32032	13	18163	13	1	0.000625227	1	0.165	-1	0.00140772
+biological_process	pyrimidine ribonucleotide metabolic process	GO:0009218	32032	232	18163	156	0.999611	0.000632988	1	0.165	-1	0.00141677
+biological_process	membrane lipid metabolic process	GO:0006643	32032	36	18163	30	0.999837	0.000680312	1	0.172	-1	0.00147379
+biological_process	membrane lipid biosynthetic process	GO:0046467	32032	36	18163	30	0.999837	0.000680312	1	0.172	-1	0.00147379
+biological_process	negative regulation of gene expression	GO:0010629	32032	49	18163	39	0.999791	0.000673158	1	0.172	-1	0.00147719
+biological_process	purine ribonucleotide biosynthetic process	GO:0009152	32032	547	18163	347	0.999468	0.000725617	1	0.184	-1	0.00156347
+biological_process	negative regulation of metabolic process	GO:0009892	32032	73	18163	55	0.999707	0.000729541	1	0.186	-1	0.00157039
+biological_process	negative regulation of biological process	GO:0048519	32032	73	18163	55	0.999707	0.000729541	1	0.186	-1	0.00157039
+molecular_function	motor activity	GO:0003774	32032	24	18163	22	0.999977	0.000219025	1	0.061	-1	0.00157422
+biological_process	monocarboxylic acid biosynthetic process	GO:0072330	32032	162	18163	112	0.999573	0.000763681	1	0.194	-1	0.00164787
+molecular_function	protein transporter activity	GO:0008565	32032	103	18163	76	0.999892	0.000243631	1	0.065	-1	0.00168063
+cellular_component	small ribosomal subunit	GO:0015935	32032	211	18163	141	0.998978	0.00164056	1	0.063	-1	0.00212144
+biological_process	monosaccharide metabolic process	GO:0005996	32032	193	18163	131	0.999443	0.000938211	1	0.24	-1	0.00213446
+biological_process	pyrimidine ribonucleoside biosynthetic process	GO:0046132	32032	222	18163	149	0.999425	0.00093224	1	0.239	-1	0.00213495
+biological_process	pyrimidine nucleoside biosynthetic process	GO:0046134	32032	222	18163	149	0.999425	0.00093224	1	0.239	-1	0.00213495
+biological_process	L-methionine biosynthetic process from methylthioadenosine	GO:0019509	32032	21	18163	19	0.999886	0.000930791	1	0.239	-1	0.00215018
+biological_process	negative regulation of nucleobase-containing compound metabolic process	GO:0045934	32032	21	18163	19	0.999886	0.000930791	1	0.239	-1	0.00215018
+biological_process	tRNA wobble base modification	GO:0002097	32032	72	18163	54	0.999599	0.000981157	1	0.244	-1	0.00219783
+cellular_component	catalytic complex	GO:1902494	32032	601	18163	376	0.998586	0.00185705	1	0.066	-1	0.00230733
+biological_process	branched-chain amino acid biosynthetic process	GO:0009082	32032	211	18163	142	0.999376	0.00102228	1	0.256	-1	0.00231522
+biological_process	arginine biosynthetic process	GO:0006526	32032	166	18163	114	0.999421	0.00101484	1	0.254	-1	0.00231611
+biological_process	pyrimidine ribonucleotide biosynthetic process	GO:0009220	32032	229	18163	153	0.999322	0.00108437	1	0.264	-1	0.00242562
+biological_process	ribosomal large subunit assembly	GO:0000027	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+biological_process	S-adenosylmethioninamine biosynthetic process	GO:0006557	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+biological_process	RNA secondary structure unwinding	GO:0010501	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+biological_process	pentose catabolic process	GO:0019323	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+biological_process	regulation of cellular component biogenesis	GO:0044087	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+biological_process	S-adenosylmethioninamine metabolic process	GO:0046499	32032	12	18163	12	1	0.00110296	1	0.274	-1	0.00248562
+cellular_component	DNA-directed RNA polymerase complex	GO:0000428	32032	11	18163	11	1	0.00194567	1	0.073	-1	0.00251783
+cellular_component	RNA polymerase complex	GO:0030880	32032	11	18163	11	1	0.00194567	1	0.073	-1	0.00251783
+biological_process	immune system process	GO:0002376	32032	77	18163	57	0.999468	0.00123744	1	0.285	-1	0.00267143
+molecular_function	lytic transglycosylase activity	GO:0008933	32032	14	18163	14	1	0.000354411	1	0.115	-1	0.00283366
+molecular_function	nucleotidyltransferase activity	GO:0016779	32032	919	18163	571	0.999691	0.000397124	1	0.124	-1	0.00306034
+biological_process	pyridine-containing compound metabolic process	GO:0072524	32032	421	18163	269	0.998934	0.00148754	1	0.331	-1	0.00317215
+biological_process	oligosaccharide biosynthetic process	GO:0009312	32032	34	18163	28	0.999621	0.00149228	1	0.333	-1	0.00319141
+biological_process	glutamine family amino acid biosynthetic process	GO:0009084	32032	240	18163	159	0.999019	0.00153094	1	0.345	-1	0.00337706
+biological_process	pyruvate metabolic process	GO:0006090	32032	185	18163	125	0.999053	0.0015753	1	0.346	-1	0.00341973
+biological_process	nucleoside triphosphate biosynthetic process	GO:0009142	32032	260	18163	171	0.998881	0.00170643	1	0.368	-1	0.00372846
+biological_process	purine nucleotide biosynthetic process	GO:0006164	32032	567	18163	356	0.998699	0.00172572	1	0.372	-1	0.00374
+biological_process	UMP biosynthetic process	GO:0006222	32032	158	18163	108	0.998994	0.00174156	1	0.374	-1	0.0037465
+biological_process	pyrimidine ribonucleoside monophosphate metabolic process	GO:0009173	32032	158	18163	108	0.998994	0.00174156	1	0.374	-1	0.0037465
+biological_process	pyrimidine ribonucleoside monophosphate biosynthetic process	GO:0009174	32032	158	18163	108	0.998994	0.00174156	1	0.374	-1	0.0037465
+biological_process	UMP metabolic process	GO:0046049	32032	158	18163	108	0.998994	0.00174156	1	0.374	-1	0.0037465
+biological_process	pentose metabolic process	GO:0019321	32032	40	18163	32	0.999475	0.00175709	1	0.384	-1	0.00384004
+biological_process	ribonucleoprotein complex subunit organization	GO:0071826	32032	64	18163	48	0.999249	0.00185204	1	0.391	-1	0.00396938
+biological_process	leucine metabolic process	GO:0006551	32032	109	18163	77	0.999023	0.00190158	1	0.4	-1	0.00403589
+biological_process	leucine biosynthetic process	GO:0009098	32032	109	18163	77	0.999023	0.00190158	1	0.4	-1	0.00403589
+biological_process	negative regulation of cellular metabolic process	GO:0031324	32032	46	18163	36	0.999367	0.00189852	1	0.4	-1	0.00405884
+biological_process	negative regulation of cellular process	GO:0048523	32032	46	18163	36	0.999367	0.00189852	1	0.4	-1	0.00405884
+biological_process	multi-organism cellular process	GO:0044764	32032	11	18163	11	1	0.00194567	1	0.412	-1	0.00416275
+biological_process	cofactor biosynthetic process	GO:0051188	32032	1070	18163	653	0.998399	0.00196205	1	0.423	-1	0.0042401
+biological_process	arginine metabolic process	GO:0006525	32032	189	18163	127	0.998783	0.00199075	1	0.423	-1	0.0042806
+molecular_function	intramolecular oxidoreductase activity	GO:0016860	32032	163	18163	113	0.999658	0.000617538	1	0.185	-1	0.00456748
+biological_process	vitamin metabolic process	GO:0006766	32032	602	18163	376	0.998335	0.00217676	1	0.441	-1	0.00466594
+biological_process	glutamine family amino acid metabolic process	GO:0009064	32032	458	18163	290	0.998389	0.00219191	1	0.443	-1	0.00469566
+biological_process	oxidoreduction coenzyme metabolic process	GO:0006733	32032	380	18163	243	0.998368	0.00228686	1	0.452	-1	0.0048665
+biological_process	'de novo' UMP biosynthetic process	GO:0044205	32032	146	18163	100	0.998693	0.00228412	1	0.452	-1	0.00488188
+biological_process	ribonucleoside triphosphate metabolic process	GO:0009199	32032	465	18163	294	0.998285	0.00232379	1	0.455	-1	0.00489854
+biological_process	purine nucleoside triphosphate metabolic process	GO:0009144	32032	435	18163	276	0.998294	0.00233583	1	0.455	-1	0.00490814
+molecular_function	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	GO:0016861	32032	138	18163	97	0.999632	0.000697247	1	0.198	-1	0.00494105
+molecular_function	ATPase activity	GO:0016887	32032	1310	18163	799	0.999405	0.000727384	1	0.202	-1	0.0050103
+cellular_component	protein complex	GO:0043234	32032	545	18163	340	0.997104	0.00378205	1	0.141	-1	0.00502497
+cellular_component	proton-transporting ATP synthase complex, catalytic core F(1)	GO:0045261	32032	25	18163	21	0.99916	0.00380837	1	0.143	-1	0.00507343
+biological_process	ribonucleoprotein complex assembly	GO:0022618	32032	63	18163	47	0.998974	0.00248354	1	0.478	-1	0.00519967
+biological_process	rRNA base methylation	GO:0070475	32032	15	18163	14	0.999799	0.00250366	1	0.486	-1	0.00534228
+biological_process	tryptophan biosynthetic process	GO:0000162	32032	80	18163	58	0.998805	0.00257578	1	0.5	-1	0.00561998
+biological_process	indole-containing compound biosynthetic process	GO:0042435	32032	80	18163	58	0.998805	0.00257578	1	0.5	-1	0.00561998
+biological_process	indolalkylamine biosynthetic process	GO:0046219	32032	80	18163	58	0.998805	0.00257578	1	0.5	-1	0.00561998
+molecular_function	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	GO:0015450	32032	32	18163	27	0.999809	0.000869792	1	0.234	-1	0.00570198
+biological_process	water-soluble vitamin metabolic process	GO:0006767	32032	600	18163	374	0.997931	0.00269229	1	0.516	-1	0.00585798
+biological_process	aromatic amino acid family biosynthetic process	GO:0009073	32032	262	18163	171	0.99813	0.00279328	1	0.522	-1	0.0060069
+biological_process	branched-chain amino acid metabolic process	GO:0009081	32032	226	18163	149	0.998175	0.00281427	1	0.522	-1	0.00600765
+biological_process	biotin metabolic process	GO:0006768	32032	32	18163	26	0.99913	0.00320412	1	0.568	-1	0.00677374
+biological_process	biotin biosynthetic process	GO:0009102	32032	32	18163	26	0.99913	0.00320412	1	0.568	-1	0.00677374
+biological_process	ribosome assembly	GO:0042255	32032	62	18163	46	0.998604	0.00331488	1	0.574	-1	0.00689421
+biological_process	pyridine nucleotide metabolic process	GO:0019362	32032	377	18163	240	0.997562	0.00337716	1	0.578	-1	0.00690619
+biological_process	nicotinamide nucleotide metabolic process	GO:0046496	32032	377	18163	240	0.997562	0.00337716	1	0.578	-1	0.00690619
+biological_process	carbohydrate biosynthetic process	GO:0016051	32032	248	18163	162	0.997755	0.00336581	1	0.575	-1	0.00691124
+biological_process	tRNA threonylcarbamoyladenosine modification	GO:0002949	32032	35	18163	28	0.99899	0.0034209	1	0.588	-1	0.00697453
+biological_process	oligosaccharide metabolic process	GO:0009311	32032	35	18163	28	0.99899	0.0034209	1	0.588	-1	0.00697453
+biological_process	tRNA threonylcarbamoyladenosine metabolic process	GO:0070525	32032	35	18163	28	0.99899	0.0034209	1	0.588	-1	0.00697453
+biological_process	ribosomal small subunit assembly	GO:0000028	32032	10	18163	10	1	0.00343217	1	0.606	-1	0.0071803
+biological_process	serine family amino acid metabolic process	GO:0009069	32032	178	18163	119	0.997817	0.00352752	1	0.609	-1	0.0072685
+molecular_function	RNA helicase activity	GO:0003724	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+molecular_function	ATP-dependent RNA helicase activity	GO:0004004	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+molecular_function	adenosylmethionine decarboxylase activity	GO:0004014	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+molecular_function	drug binding	GO:0008144	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+molecular_function	penicillin binding	GO:0008658	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+molecular_function	monocarboxylic acid binding	GO:0033293	32032	12	18163	12	1	0.00110296	1	0.311	-1	0.00735208
+biological_process	nucleoside bisphosphate biosynthetic process	GO:0033866	32032	53	18163	40	0.998593	0.00359827	1	0.617	-1	0.00736512
+biological_process	ribonucleoside bisphosphate biosynthetic process	GO:0034030	32032	53	18163	40	0.998593	0.00359827	1	0.617	-1	0.00736512
+biological_process	purine nucleoside bisphosphate biosynthetic process	GO:0034033	32032	53	18163	40	0.998593	0.00359827	1	0.617	-1	0.00736512
+molecular_function	fatty acid synthase activity	GO:0004312	32032	28	18163	24	0.999786	0.00108829	1	0.291	-1	0.00738741
+biological_process	nucleoside bisphosphate metabolic process	GO:0033865	32032	73	18163	53	0.998304	0.00369247	1	0.628	-1	0.00753118
+biological_process	ribonucleoside bisphosphate metabolic process	GO:0033875	32032	73	18163	53	0.998304	0.00369247	1	0.628	-1	0.00753118
+biological_process	purine nucleoside bisphosphate metabolic process	GO:0034032	32032	73	18163	53	0.998304	0.00369247	1	0.628	-1	0.00753118
+cellular_component	NADH dehydrogenase complex	GO:0030964	32032	9	18163	9	1	0.00605423	1	0.214	-1	0.00812114
+molecular_function	primary active transmembrane transporter activity	GO:0015399	32032	346	18163	224	0.999082	0.00133167	1	0.343	-1	0.00814378
+molecular_function	P-P-bond-hydrolysis-driven transmembrane transporter activity	GO:0015405	32032	346	18163	224	0.999082	0.00133167	1	0.343	-1	0.00814378
+biological_process	vitamin biosynthetic process	GO:0009110	32032	574	18163	357	0.996898	0.004016	1	0.659	-1	0.00841112
+biological_process	purine ribonucleoside triphosphate metabolic process	GO:0009205	32032	417	18163	263	0.996617	0.00456591	1	0.702	-1	0.00944274
+molecular_function	enzyme activator activity	GO:0008047	32032	20	18163	18	0.999809	0.00149585	1	0.401	-1	0.0094815
+molecular_function	deacetylase activity	GO:0019213	32032	20	18163	18	0.999809	0.00149585	1	0.401	-1	0.0094815
+molecular_function	acetyl-CoA C-acetyltransferase activity	GO:0003985	32032	16	18163	15	0.999886	0.00150623	1	0.419	-1	0.00961751
+molecular_function	C-acetyltransferase activity	GO:0016453	32032	16	18163	15	0.999886	0.00150623	1	0.419	-1	0.00961751
+biological_process	pantothenate metabolic process	GO:0015939	32032	55	18163	41	0.99806	0.00472434	1	0.71	-1	0.00964737
+biological_process	coenzyme A biosynthetic process	GO:0015937	32032	52	18163	39	0.998056	0.00486268	1	0.717	-1	0.00987594
+biological_process	dUTP metabolic process	GO:0046080	32032	21	18163	18	0.999069	0.00488621	1	0.731	-1	0.0101557
+biological_process	pantothenate biosynthetic process	GO:0015940	32032	34	18163	27	0.998508	0.00489502	1	0.733	-1	0.0102212
+biological_process	water-soluble vitamin biosynthetic process	GO:0042364	32032	572	18163	355	0.996172	0.00493046	1	0.735	-1	0.0102255
+biological_process	deoxyribose phosphate metabolic process	GO:0019692	32032	80	18163	57	0.997424	0.00523801	1	0.757	-1	0.0108287
+biological_process	guanosine-containing compound metabolic process	GO:1901068	32032	107	18163	74	0.996978	0.00551112	1	0.768	-1	0.0111163
+biological_process	tricarboxylic acid metabolic process	GO:0072350	32032	115	18163	79	0.996881	0.005555	1	0.77	-1	0.0111895
+biological_process	isoleucine metabolic process	GO:0006549	32032	104	18163	72	0.996782	0.005896	1	0.79	-1	0.0117817
+biological_process	isoleucine biosynthetic process	GO:0009097	32032	104	18163	72	0.996782	0.005896	1	0.79	-1	0.0117817
+biological_process	pyrimidine deoxyribonucleotide metabolic process	GO:0009219	32032	74	18163	53	0.997173	0.00587563	1	0.788	-1	0.0117938
+biological_process	2'-deoxyribonucleotide metabolic process	GO:0009394	32032	74	18163	53	0.997173	0.00587563	1	0.788	-1	0.0117938
+biological_process	carbohydrate metabolic process	GO:0005975	32032	928	18163	564	0.995121	0.00592763	1	0.791	-1	0.0118036
+biological_process	nucleotide-sugar biosynthetic process	GO:0009226	32032	17	18163	15	0.999097	0.00602955	1	0.801	-1	0.0120636
+biological_process	aromatic amino acid family metabolic process	GO:0009072	32032	277	18163	178	0.995743	0.00609145	1	0.814	-1	0.0121801
+biological_process	genetic transfer	GO:0009292	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	DNA mediated transformation	GO:0009294	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	regulation of DNA-templated transcription, termination	GO:0031554	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	transcriptional attenuation	GO:0031555	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	transcription antitermination	GO:0031564	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	amino sugar biosynthetic process	GO:0046349	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	bacterial-type flagellum-dependent swarming motility	GO:0071978	32032	9	18163	9	1	0.00605423	1	0.814	-1	0.0121849
+biological_process	deoxyribonucleoside triphosphate metabolic process	GO:0009200	32032	54	18163	40	0.997351	0.00631111	1	0.824	-1	0.0124086
+biological_process	pyrimidine deoxyribonucleoside triphosphate metabolic process	GO:0009211	32032	54	18163	40	0.997351	0.00631111	1	0.824	-1	0.0124086
+biological_process	pentose-phosphate shunt	GO:0006098	32032	68	18163	49	0.996922	0.00656151	1	0.837	-1	0.0128584
+biological_process	glucose 6-phosphate metabolic process	GO:0051156	32032	68	18163	49	0.996922	0.00656151	1	0.837	-1	0.0128584
+molecular_function	ATPase activity, coupled	GO:0042623	32032	556	18163	349	0.99853	0.00194907	1	0.512	-1	0.0128636
+molecular_function	lipid binding	GO:0008289	32032	11	18163	11	1	0.00194567	1	0.511	-1	0.0130176
+molecular_function	carbohydrate-transporting ATPase activity	GO:0043211	32032	11	18163	11	1	0.00194567	1	0.511	-1	0.0130176
+molecular_function	carboxylic acid binding	GO:0031406	32032	191	18163	128	0.998627	0.00222848	1	0.561	-1	0.0142479
+molecular_function	organic acid binding	GO:0043177	32032	191	18163	128	0.998627	0.00222848	1	0.561	-1	0.0142479
+molecular_function	phosphoric ester hydrolase activity	GO:0042578	32032	227	18163	150	0.998463	0.00238527	1	0.573	-1	0.0145037
+molecular_function	identical protein binding	GO:0042802	32032	36	18163	29	0.99932	0.00237648	1	0.573	-1	0.0146824
+molecular_function	peptidoglycan muralytic activity	GO:0061783	32032	19	18163	17	0.999678	0.00239301	1	0.596	-1	0.0150844
+cellular_component	HslUV protease complex	GO:0009376	32032	8	18163	8	1	0.0106792	1	0.36	-1	0.0153902
+cellular_component	cytosolic proteasome complex	GO:0031597	32032	8	18163	8	1	0.0106792	1	0.36	-1	0.0153902
+biological_process	response to inorganic substance	GO:0010035	32032	73	18163	52	0.996308	0.00754491	1	0.879	-1	0.0157854
+biological_process	purine nucleoside monophosphate metabolic process	GO:0009126	32032	692	18163	424	0.993815	0.0076952	1	0.88	-1	0.0159319
+biological_process	purine ribonucleoside monophosphate metabolic process	GO:0009167	32032	692	18163	424	0.993815	0.0076952	1	0.88	-1	0.0159319
+molecular_function	tRNA (guanine) methyltransferase activity	GO:0016423	32032	39	18163	31	0.999229	0.00251084	1	0.625	-1	0.0160575
+biological_process	purine nucleoside monophosphate biosynthetic process	GO:0009127	32032	469	18163	292	0.993913	0.00793417	1	0.883	-1	0.0160785
+biological_process	purine ribonucleoside monophosphate biosynthetic process	GO:0009168	32032	469	18163	292	0.993913	0.00793417	1	0.883	-1	0.0160785
+biological_process	isoprenoid metabolic process	GO:0006720	32032	137	18163	92	0.995223	0.0079025	1	0.881	-1	0.0160963
+biological_process	deoxyribonucleotide metabolic process	GO:0009262	32032	89	18163	62	0.995618	0.00825042	1	0.889	-1	0.0164841
+cellular_component	proton-transporting two-sector ATPase complex	GO:0016469	32032	135	18163	90	0.992971	0.0114044	1	0.401	-1	0.0165041
+cellular_component	proton-transporting ATP synthase complex, coupling factor F(o)	GO:0045263	32032	19	18163	16	0.997607	0.0113615	1	0.4	-1	0.0167303
+cellular_component	proton-transporting two-sector ATPase complex, catalytic domain	GO:0033178	32032	71	18163	50	0.993787	0.0122654	1	0.414	-1	0.0172504
+biological_process	defense response	GO:0006952	32032	139	18163	93	0.994591	0.0088506	1	0.898	-1	0.0176317
+biological_process	ion transmembrane transport	GO:0034220	32032	211	18163	137	0.99398	0.00893041	1	0.898	-1	0.0176408
+biological_process	tricarboxylic acid cycle	GO:0006099	32032	110	18163	75	0.994849	0.00899481	1	0.9	-1	0.0177227
+biological_process	citrate metabolic process	GO:0006101	32032	110	18163	75	0.994849	0.00899481	1	0.9	-1	0.0177227
+molecular_function	racemase and epimerase activity, acting on amino acids and derivatives	GO:0016855	32032	29	18163	24	0.999291	0.00290734	1	0.668	-1	0.0179289
+molecular_function	adenylyltransferase activity	GO:0070566	32032	126	18163	87	0.998349	0.00297322	1	0.673	-1	0.0179403
+biological_process	negative regulation of transcription, DNA-templated	GO:0045892	32032	16	18163	14	0.998494	0.00948566	1	0.918	-1	0.0188771
+biological_process	negative regulation of RNA metabolic process	GO:0051253	32032	16	18163	14	0.998494	0.00948566	1	0.918	-1	0.0188771
+biological_process	negative regulation of RNA biosynthetic process	GO:1902679	32032	16	18163	14	0.998494	0.00948566	1	0.918	-1	0.0188771
+biological_process	negative regulation of nucleic acid-templated transcription	GO:1903507	32032	16	18163	14	0.998494	0.00948566	1	0.918	-1	0.0188771
+biological_process	isoprenoid biosynthetic process	GO:0008299	32032	136	18163	91	0.994197	0.00950823	1	0.919	-1	0.0189735
+biological_process	response to external stimulus	GO:0009605	32032	190	18163	124	0.993514	0.00979208	1	0.927	-1	0.0197562
+biological_process	tRNA wobble uridine modification	GO:0002098	32032	35	18163	27	0.996579	0.00987016	1	0.929	-1	0.020049
+biological_process	response to oxygen-containing compound	GO:1901700	32032	35	18163	27	0.996579	0.00987016	1	0.929	-1	0.020049
+molecular_function	transferase activity, transferring hexosyl groups	GO:0016758	32032	112	18163	78	0.998209	0.00332871	1	0.713	-1	0.0201303
+biological_process	pyrimidine nucleoside triphosphate metabolic process	GO:0009147	32032	120	18163	81	0.994054	0.0100439	1	0.93	-1	0.0201694
+biological_process	coenzyme A metabolic process	GO:0015936	32032	69	18163	49	0.994948	0.0102594	1	0.935	-1	0.0204805
+biological_process	cytoplasmic translation	GO:0002181	32032	8	18163	8	1	0.0106792	1	0.946	-1	0.0213259
+biological_process	maturation of SSU-rRNA	GO:0030490	32032	8	18163	8	1	0.0106792	1	0.946	-1	0.0213259
+biological_process	lipoprotein metabolic process	GO:0042157	32032	8	18163	8	1	0.0106792	1	0.946	-1	0.0213259
+biological_process	lipoprotein biosynthetic process	GO:0042158	32032	8	18163	8	1	0.0106792	1	0.946	-1	0.0213259
+biological_process	protein oligomerization	GO:0051259	32032	8	18163	8	1	0.0106792	1	0.946	-1	0.0213259
+molecular_function	aldehyde-lyase activity	GO:0016832	32032	76	18163	55	0.998363	0.00351519	1	0.747	-1	0.0219012
+molecular_function	glycosaminoglycan binding	GO:0005539	32032	10	18163	10	1	0.00343217	1	0.743	-1	0.0219494
+molecular_function	peptidoglycan binding	GO:0042834	32032	10	18163	10	1	0.00343217	1	0.743	-1	0.0219494
+cellular_component	integral component of plasma membrane	GO:0005887	32032	187	18163	121	0.9895	0.0155112	1	0.498	-1	0.0223355
+cellular_component	intrinsic component of plasma membrane	GO:0031226	32032	205	18163	132	0.989752	0.0148959	1	0.493	-1	0.0223536
+biological_process	ribonucleoside triphosphate biosynthetic process	GO:0009201	32032	212	18163	137	0.992332	0.0112355	1	0.957	-1	0.0227942
+biological_process	pyrimidine deoxyribonucleotide biosynthetic process	GO:0009221	32032	71	18163	50	0.993787	0.0122654	1	0.966	-1	0.0242562
+biological_process	2'-deoxyribonucleotide biosynthetic process	GO:0009265	32032	71	18163	50	0.993787	0.0122654	1	0.966	-1	0.0242562
+biological_process	deoxyribose phosphate biosynthetic process	GO:0046385	32032	71	18163	50	0.993787	0.0122654	1	0.966	-1	0.0242562
+biological_process	lysine biosynthetic process via aminoadipic acid	GO:0019878	32032	22	18163	18	0.996827	0.0125963	1	0.967	-1	0.0248942
+biological_process	tryptophan metabolic process	GO:0006568	32032	95	18163	65	0.992784	0.0128305	1	0.969	-1	0.0251604
+biological_process	indolalkylamine metabolic process	GO:0006586	32032	95	18163	65	0.992784	0.0128305	1	0.969	-1	0.0251604
+biological_process	indole-containing compound metabolic process	GO:0042430	32032	95	18163	65	0.992784	0.0128305	1	0.969	-1	0.0251604
+biological_process	organic hydroxy compound metabolic process	GO:1901615	32032	160	18163	105	0.991485	0.0131381	1	0.973	-1	0.0257301
+biological_process	L-methionine biosynthetic process	GO:0071265	32032	37	18163	28	0.99496	0.0134107	1	0.973	-1	0.0263009
+biological_process	pyrimidine nucleobase metabolic process	GO:0006206	32032	134	18163	89	0.991512	0.0136354	1	0.973	-1	0.0264836
+molecular_function	S-adenosylmethionine-dependent methyltransferase activity	GO:0008757	32032	310	18163	199	0.997056	0.00418817	1	0.822	-1	0.0267711
+biological_process	response to reactive oxygen species	GO:0000302	32032	28	18163	22	0.995702	0.0136995	1	0.974	-1	0.0268551
+molecular_function	single-stranded DNA binding	GO:0003697	32032	14	18163	13	0.999646	0.00414584	1	0.821	-1	0.0269866
+molecular_function	racemase activity, acting on amino acids and derivatives	GO:0036361	32032	28	18163	23	0.998912	0.00429761	1	0.828	-1	0.0271151
+molecular_function	peptide transmembrane transporter activity	GO:1904680	32032	58	18163	43	0.998078	0.00456954	1	0.833	-1	0.0280075
+molecular_function	coenzyme binding	GO:0050662	32032	1018	18163	618	0.996119	0.00469605	1	0.834	-1	0.028406
+biological_process	carbohydrate derivative catabolic process	GO:1901136	32032	51	18163	37	0.993464	0.0145489	1	0.98	-1	0.0284598
+biological_process	purine nucleoside triphosphate biosynthetic process	GO:0009145	32032	167	18163	109	0.99034	0.0146644	1	0.98	-1	0.0285054
+biological_process	purine ribonucleoside triphosphate biosynthetic process	GO:0009206	32032	167	18163	109	0.99034	0.0146644	1	0.98	-1	0.0285054
+cellular_component	type II protein secretion system complex	GO:0015627	32032	7	18163	7	1	0.0188368	1	0.622	-1	0.0299307
+cellular_component	preribosome	GO:0030684	32032	7	18163	7	1	0.0188368	1	0.622	-1	0.0299307
+biological_process	GTP metabolic process	GO:0046039	32032	59	18163	42	0.992347	0.0158342	1	0.985	-1	0.0307954
+biological_process	thiamine metabolic process	GO:0006772	32032	143	18163	94	0.989017	0.0171083	1	0.987	-1	0.0323166
+biological_process	thiamine-containing compound metabolic process	GO:0042723	32032	143	18163	94	0.989017	0.0171083	1	0.987	-1	0.0323166
+biological_process	threonine biosynthetic process	GO:0009088	32032	83	18163	57	0.990573	0.0170814	1	0.987	-1	0.0324064
+biological_process	inorganic ion transmembrane transport	GO:0098660	32032	199	18163	128	0.988236	0.0170717	1	0.987	-1	0.0324317
+biological_process	cellular carbohydrate biosynthetic process	GO:0034637	32032	75	18163	52	0.990942	0.0169908	1	0.987	-1	0.0324689
+molecular_function	cofactor binding	GO:0048037	32032	1714	18163	1023	0.995239	0.00550561	1	0.877	-1	0.0334492
+biological_process	methionine biosynthetic process	GO:0009086	32032	104	18163	70	0.989635	0.0175004	1	0.989	-1	0.0334982
+molecular_function	macromolecule transmembrane transporter activity	GO:0022884	32032	60	18163	44	0.99745	0.00581994	1	0.887	-1	0.0337372
+molecular_function	ribonucleoprotein complex binding	GO:0043021	32032	60	18163	44	0.99745	0.00581994	1	0.887	-1	0.0337372
+molecular_function	macromolecular complex binding	GO:0044877	32032	60	18163	44	0.99745	0.00581994	1	0.887	-1	0.0337372
+molecular_function	glycine dehydrogenase (decarboxylating) activity	GO:0004375	32032	24	18163	20	0.998685	0.00571364	1	0.882	-1	0.0342879
+molecular_function	oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor	GO:0016642	32032	24	18163	20	0.998685	0.00571364	1	0.882	-1	0.0342879
+molecular_function	endodeoxyribonuclease activity, producing 3'-phosphomonoesters	GO:0016889	32032	17	18163	15	0.999097	0.00602955	1	0.903	-1	0.0354368
+molecular_function	protein transmembrane transporter activity	GO:0008320	32032	57	18163	42	0.997394	0.00607045	1	0.918	-1	0.0363323
+molecular_function	5'-3' DNA helicase activity	GO:0043139	32032	9	18163	9	1	0.00605423	1	0.918	-1	0.0366346
+molecular_function	ATP-dependent 5'-3' DNA helicase activity	GO:0043141	32032	9	18163	9	1	0.00605423	1	0.918	-1	0.0366346
+molecular_function	N5,N10-methenyltetrahydromethanopterin hydrogenase activity	GO:0047068	32032	9	18163	9	1	0.00605423	1	0.918	-1	0.0366346
+molecular_function	oxidoreductase activity, acting on CH or CH2 groups, with an iron-sulfur protein as acceptor	GO:0052592	32032	9	18163	9	1	0.00605423	1	0.918	-1	0.0366346
+biological_process	cellular component disassembly	GO:0022411	32032	33	18163	25	0.99304	0.0188017	1	0.993	-1	0.0371979
+biological_process	macromolecular complex disassembly	GO:0032984	32032	33	18163	25	0.99304	0.0188017	1	0.993	-1	0.0371979
+biological_process	recombinational repair	GO:0000725	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	selenocysteine incorporation	GO:0001514	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	fucose metabolic process	GO:0006004	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	translational readthrough	GO:0006451	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	alanine biosynthetic process	GO:0006523	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	pyruvate family amino acid biosynthetic process	GO:0009079	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cell cycle process	GO:0010564	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	protein secretion by the type II secretion system	GO:0015628	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cytokinesis	GO:0032465	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cytokinetic process	GO:0032954	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of response to stimulus	GO:0048583	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cell division	GO:0051302	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cell cycle	GO:0051726	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	protein transport across the cell outer membrane	GO:0098776	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	regulation of cell septum assembly	GO:1901891	32032	7	18163	7	1	0.0188368	1	0.996	-1	0.0379594
+biological_process	protoporphyrinogen IX biosynthetic process	GO:0006782	32032	61	18163	43	0.990513	0.018986	1	0.996	-1	0.0380628
+biological_process	protoporphyrinogen IX metabolic process	GO:0046501	32032	61	18163	43	0.990513	0.018986	1	0.996	-1	0.0380628
+molecular_function	ATPase activity, coupled to transmembrane movement of substances	GO:0042626	32032	309	18163	197	0.9952	0.0067092	1	0.926	-1	0.0383229
+molecular_function	ATPase activity, coupled to movement of substances	GO:0043492	32032	309	18163	197	0.9952	0.0067092	1	0.926	-1	0.0383229
+biological_process	dUMP biosynthetic process	GO:0006226	32032	24	18163	19	0.994286	0.0191581	1	0.997	-1	0.0387614
+biological_process	dUMP metabolic process	GO:0046078	32032	24	18163	19	0.994286	0.0191581	1	0.997	-1	0.0387614
+biological_process	cellular response to oxidative stress	GO:0034599	32032	27	18163	21	0.993688	0.0193444	1	0.999	-1	0.039589
+biological_process	regulation of protein metabolic process	GO:0051246	32032	119	18163	79	0.987841	0.0196263	1	0.999	-1	0.0398223
+biological_process	deoxyribonucleotide biosynthetic process	GO:0009263	32032	77	18163	53	0.98924	0.0197224	1	0.999	-1	0.0399697
+biological_process	cell division	GO:0051301	32032	223	18163	142	0.9858	0.0200036	1	0.999	-1	0.0401443
+biological_process	cellular metabolic compound salvage	GO:0043094	32032	98	18163	66	0.988052	0.0202757	1	0.999	-1	0.0403111
+biological_process	pyrimidine nucleobase biosynthetic process	GO:0019856	32032	124	18163	82	0.987314	0.02022	1	0.999	-1	0.0403134
+biological_process	aerobic respiration	GO:0009060	32032	147	18163	96	0.986549	0.0205684	1	0.999	-1	0.040508
+biological_process	organic substance catabolic process	GO:1901575	32032	863	18163	519	0.982396	0.0208846	1	0.999	-1	0.0407225
+biological_process	single-organism catabolic process	GO:0044712	32032	520	18163	318	0.982908	0.0212919	1	0.999	-1	0.0414943
+biological_process	alpha-amino acid catabolic process	GO:1901606	32032	162	18163	105	0.985602	0.0214937	1	0.999	-1	0.0417037
+molecular_function	oxidoreductase activity, acting on the aldehyde or oxo group of donors, iron-sulfur protein as acceptor	GO:0016625	32032	179	18163	118	0.995316	0.00728096	1	0.948	-1	0.0422075
+biological_process	cellular polysaccharide biosynthetic process	GO:0033692	32032	41	18163	30	0.990394	0.0224232	1	0.999	-1	0.0427247
+biological_process	methionine metabolic process	GO:0006555	32032	113	18163	75	0.985943	0.0227391	1	0.999	-1	0.0430368
+molecular_function	acetyl-CoA C-acyltransferase activity	GO:0003988	32032	20	18163	17	0.998504	0.00747691	1	0.957	-1	0.0436408
+molecular_function	sugar transmembrane transporter activity	GO:0051119	32032	20	18163	17	0.998504	0.00747691	1	0.957	-1	0.0436408
+molecular_function	amide transmembrane transporter activity	GO:0042887	32032	59	18163	43	0.996578	0.00765307	1	0.96	-1	0.0437491
+biological_process	amino sugar metabolic process	GO:0006040	32032	14	18163	12	0.995854	0.022975	1	0.999	-1	0.0439431
+biological_process	tRNA acetylation	GO:0051391	32032	14	18163	12	0.995854	0.022975	1	0.999	-1	0.0439431
+biological_process	RNA acetylation	GO:1990884	32032	14	18163	12	0.995854	0.022975	1	0.999	-1	0.0439431
+biological_process	thiamine biosynthetic process	GO:0009228	32032	136	18163	89	0.984886	0.0233246	1	0.999	-1	0.0441837
+biological_process	cellular protein localization	GO:0034613	32032	136	18163	89	0.984886	0.0233246	1	0.999	-1	0.0441837
+biological_process	thiamine-containing compound biosynthetic process	GO:0042724	32032	136	18163	89	0.984886	0.0233246	1	0.999	-1	0.0441837
+biological_process	cellular macromolecule localization	GO:0070727	32032	136	18163	89	0.984886	0.0233246	1	0.999	-1	0.0441837
+biological_process	regulation of DNA metabolic process	GO:0051052	32032	38	18163	28	0.990215	0.0235634	1	0.999	-1	0.0445305
+biological_process	cellular localization	GO:0051641	32032	141	18163	92	0.984466	0.0237463	1	0.999	-1	0.0446922
+molecular_function	hydrolase activity, acting on ester bonds	GO:0016788	32032	1402	18163	839	0.993069	0.00807892	1	0.963	-1	0.0448013
+biological_process	heme biosynthetic process	GO:0006783	32032	110	18163	73	0.984881	0.0244851	1	1	-1	0.0455403
+biological_process	heme metabolic process	GO:0042168	32032	110	18163	73	0.984881	0.0244851	1	1	-1	0.0455403
+biological_process	valine metabolic process	GO:0006573	32032	68	18163	47	0.986914	0.0244877	1	1	-1	0.0457907
+biological_process	DNA-templated transcription, termination	GO:0006353	32032	35	18163	26	0.99013	0.0246565	1	1	-1	0.0461335
+biological_process	tRNA methylation	GO:0030488	32032	35	18163	26	0.99013	0.0246565	1	1	-1	0.0461335
+biological_process	protein complex disassembly	GO:0043241	32032	32	18163	24	0.990169	0.0256568	1	1	-1	0.0478737
+biological_process	nucleobase metabolic process	GO:0009112	32032	201	18163	128	0.981608	0.0260191	1	1	-1	0.0483457
+biological_process	amino acid salvage	GO:0043102	32032	29	18163	22	0.990373	0.0264991	1	1	-1	0.049451
+biological_process	L-methionine salvage	GO:0071267	32032	29	18163	22	0.990373	0.0264991	1	1	-1	0.049451
