@@ -1,0 +1,51 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.REPTree -M 230 -V 0.001 -N 3 -S 1 -L 10 -I 0.0
+Relation:     Extremophiles_ColdBasLine_Thermophile_Cleaned-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    45825
+Attributes:   5337
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+REPTree
+============
+
+GO:1901566 = 0
+|   GO:0043167 = 0
+|   |   GO:0003723 = 0 : Under (18802/6576) [9520/3372]
+|   |   GO:0003723 = 1 : Upper (740/330) [353/169]
+|   GO:0043167 = 1 : Under (6822/3024) [3364/1474]
+GO:1901566 = 1 : Upper (4186/2086) [2038/1013]
+
+Size of the tree : 7
+
+Time taken to build model: 72.87 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       27793               60.6503 %
+Incorrectly Classified Instances     18032               39.3497 %
+Kappa statistic                          0.0766
+Mean absolute error                      0.4709
+Root mean squared error                  0.4854
+Relative absolute error                 98.4099 %
+Root relative squared error             99.2305 %
+Total Number of Instances            45825     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.883    0.815    0.623      0.883    0.730      0.095    0.562     0.638     Under
+                 0.185    0.117    0.510      0.185    0.271      0.095    0.562     0.455     Upper
+Weighted Avg.    0.607    0.538    0.578      0.607    0.548      0.095    0.562     0.566     
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 24436  3224 |     a = Under
+ 14808  3357 |     b = Upper
+
