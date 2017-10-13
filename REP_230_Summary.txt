@@ -1,3 +1,0 @@
-biological_process    GO:1901566    name: organonitrogen compound biosynthetic process    def: "The chemical reactions and pathways resulting in the formation of organonitrogen compound." [GOC:pr, GOC:TermGenie] Enrichment Value: 1.91E-86 Enrichment Position: 4635
-molecular_function    GO:0043167    name: ion binding    def: "Interacting selectively and non-covalently with ions, charged atoms or groups of atoms." [GOC:jl] Enrichment Value: 8.98E-54 Enrichment Position: 4494
-molecular_function    GO:0003723    name: RNA binding    def: "Interacting selectively and non-covalently with an RNA molecule or a portion thereof." [GOC:jl, GOC:mah] Enrichment Value: 2.73E-49 Enrichment Position: 4460
